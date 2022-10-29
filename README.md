@@ -1,10 +1,10 @@
 # ShapeAI_PYTHON_FOR_BEGINNER_BOOTCAMP_FINAL_PROJECT-
 
-#ShapeAI_MACHINE_LEARNING_BOOTCAMP_PROJECT
 
 
 
-# DevTown PYTHON FORBEGINNER BOOTCAMP
+
+# DevTown PYTHON FOR BEGINNER BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> DevTown
 </b>.
 The instructor during the session was Mr. Shaurya Sinha (Co-Founder at DevTown). I got to
